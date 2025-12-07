@@ -1,8 +1,8 @@
 # House Price Prediction
 
 1. Project Overview
-This project applies **Linear Regression** with Python’s Scikit-learn to predict U.S. house prices.  
-The goal is to build a fast, reliable, and data-driven alternative to traditional property appraisal methods.
+- This project applies **Linear Regression** with Python’s Scikit-learn to predict U.S. house prices.  
+- The goal is to build a fast, reliable, and data-driven alternative to traditional property appraisal methods.
 
 2. Data Preparation
 - Raw dataset: 5,000 property records with 7 core features (Income, Age, Rooms, etc.).
